@@ -39,7 +39,7 @@ function Formulario() {
     };
     sessionStorage.setItem("usuario", JSON.stringify(usuarioLogueado));
     Swal.fire({
-      title: "Usuario Logueado",
+      title: "Datos Enviados Correctamente",
       icon: "success",
       draggable: true,
     });
