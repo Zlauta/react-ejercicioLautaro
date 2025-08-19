@@ -1,0 +1,13 @@
+.hero{
+    background-image: url(https://i.pinimg.com/originals/26/e9/67/26e967f16fa0a54a4e1b11cf784da516.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.alturaMinimaContenedor {
+  min-height: 100dvh;
+}
+
+.alturaMinima{
+    height: calc(100dvh - 85px);
+}
